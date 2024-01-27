@@ -9,6 +9,7 @@
   "instanceCreationOrder": [
     {"name":"inst_5AD8C464","path":"rooms/gameLoop/gameLoop.yy",},
     {"name":"inst_39CEC9EE","path":"rooms/gameLoop/gameLoop.yy",},
+    {"name":"inst_A0DD356","path":"rooms/gameLoop/gameLoop.yy",},
   ],
   "isDnd": false,
   "layers": [
