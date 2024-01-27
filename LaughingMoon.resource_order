@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"batGun","order":1,"path":"sprites/batGun/batGun.yy",},
+    {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"obj_batStation","order":1,"path":"objects/obj_batStation/obj_batStation.yy",},
     {"name":"background","order":4,"path":"sprites/background/background.yy",},
     {"name":"batStation","order":2,"path":"sprites/batStation/batStation.yy",},
