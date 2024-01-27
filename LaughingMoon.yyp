@@ -46,11 +46,11 @@
     {"id":{"name":"obj_batGun","path":"objects/obj_batGun/obj_batGun.yy",},},
     {"id":{"name":"obj_moon","path":"objects/obj_moon/obj_moon.yy",},},
     {"id":{"name":"moon","path":"sprites/moon/moon.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"gameLoop","path":"rooms/gameLoop/gameLoop.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"gameLoop","path":"rooms/gameLoop/gameLoop.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

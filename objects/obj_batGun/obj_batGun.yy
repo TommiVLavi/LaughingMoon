@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "batGun",
+    "path": "sprites/batGun/batGun.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

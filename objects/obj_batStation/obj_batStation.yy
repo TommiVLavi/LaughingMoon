@@ -27,7 +27,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "batStation",
+    "path": "sprites/batStation/batStation.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "batAmmo",
+    "path": "sprites/batAmmo/batAmmo.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

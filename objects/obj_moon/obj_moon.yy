@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "moon",
+    "path": "sprites/moon/moon.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
