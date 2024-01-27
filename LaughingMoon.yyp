@@ -49,8 +49,8 @@
     {"id":{"name":"gameLoop","path":"rooms/gameLoop/gameLoop.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"gameLoop","path":"rooms/gameLoop/gameLoop.yy",},},
+    {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
