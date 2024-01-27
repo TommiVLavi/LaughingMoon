@@ -17,8 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"batGun","order":1,"path":"sprites/batGun/batGun.yy",},
     {"name":"obj_batStation","order":1,"path":"objects/obj_batStation/obj_batStation.yy",},
+    {"name":"background","order":4,"path":"sprites/background/background.yy",},
+    {"name":"batStation","order":2,"path":"sprites/batStation/batStation.yy",},
     {"name":"obj_batGun","order":2,"path":"objects/obj_batGun/obj_batGun.yy",},
     {"name":"obj_moon","order":3,"path":"objects/obj_moon/obj_moon.yy",},
+    {"name":"moon","order":3,"path":"sprites/moon/moon.yy",},
   ],
 }

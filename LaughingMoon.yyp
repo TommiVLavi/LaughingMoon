@@ -34,10 +34,15 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"batGun","path":"sprites/batGun/batGun.yy",},},
     {"id":{"name":"obj_batStation","path":"objects/obj_batStation/obj_batStation.yy",},},
+    {"id":{"name":"background","path":"sprites/background/background.yy",},},
     {"id":{"name":"obj_batAmmo","path":"objects/obj_batAmmo/obj_batAmmo.yy",},},
+    {"id":{"name":"batAmmo","path":"sprites/batAmmo/batAmmo.yy",},},
+    {"id":{"name":"batStation","path":"sprites/batStation/batStation.yy",},},
     {"id":{"name":"obj_batGun","path":"objects/obj_batGun/obj_batGun.yy",},},
     {"id":{"name":"obj_moon","path":"objects/obj_moon/obj_moon.yy",},},
+    {"id":{"name":"moon","path":"sprites/moon/moon.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
