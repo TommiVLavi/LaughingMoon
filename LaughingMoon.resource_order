@@ -18,5 +18,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"obj_batStation","order":1,"path":"objects/obj_batStation/obj_batStation.yy",},
+    {"name":"obj_batGun","order":2,"path":"objects/obj_batGun/obj_batGun.yy",},
+    {"name":"obj_moon","order":3,"path":"objects/obj_moon/obj_moon.yy",},
   ],
 }
